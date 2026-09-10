@@ -32,9 +32,9 @@ Research Experience
 * **Research Intern**, Shanghai AI Lab, June 2023 – December 2023  
   * Supervisor: Prof. Yu Cheng
 
-Selected Publications
+Publications Recorded in About Section
 ======
-See also the dedicated [publications page](/publications/).
+The full publication entries are also available on the template’s [publications page](/publications/).
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — *Arxiv, 2025*; First author.
 - **On the Perception Bottleneck of VLMs for Chart Understanding** — *Arxiv, 2025*; First author.
