@@ -17,10 +17,8 @@ Education
 Research Experience
 ======
 * **Research Intern**, MINIMAX, February 2025 – Present
-* **Research Intern**, Tencent WXG, June 2024 – September 2024  
-  * Supervisor: Zifei Shan
-* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023  
-  * Supervisor: Prof. Yu Cheng
+* **Research Intern**, Tencent WXG, June 2024 – September 2024
+* **Research Intern**, Shanghai AI Lab, June 2023 – December 2023
 
 Research Interests
 ======
@@ -29,16 +27,6 @@ Research Interests
 * LLM Reasoning and Reinforcement Learning
 * Hallucination in Vision-Language Models (VLMs)
 * LLM Truthfulness and Interpretability
-
-Skills
-======
-* Natural Language Processing
-* Machine Learning
-* Large Language Model research and development
-* Reasoning-data construction and evaluation
-* Reinforcement Learning-related research
-* Vision-Language Model analysis
-* LLM truthfulness, interpretability, and hallucination mitigation
 
 Awards
 ======
@@ -54,17 +42,5 @@ Contact
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
