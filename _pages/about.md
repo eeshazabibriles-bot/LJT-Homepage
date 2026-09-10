@@ -32,6 +32,17 @@ Research Experience
 * **Research Intern**, Shanghai AI Lab, June 2023 – December 2023  
   * Supervisor: Prof. Yu Cheng
 
+Selected Publications
+======
+See also the dedicated [publications page](/LJT-Homepage/publications/).
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — *Arxiv, 2025*; First author.
+- **On the Perception Bottleneck of VLMs for Chart Understanding** — *Arxiv, 2025*; First author.
+- **On the Universal Truthfulness Hyperplane Inside LLMs** — *EMNLP 2024*; First author.
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — *ICML 2024*.
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — *NeurIPS 2023*.
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** — *NeurIPS 2023*.
+
 Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
