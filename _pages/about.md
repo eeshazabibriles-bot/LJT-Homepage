@@ -30,8 +30,6 @@ Research Experience
 
 Publications
 ======
-The full publication entries are also available on the template’s [publications page](/publications/).
-
 - Published 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' (2025) - First author
 - Published 'On the Perception Bottleneck of VLMs for Chart Understanding' (2025) - First author
 - Published 'On the Universal Truthfulness Hyperplane Inside LLMs' at EMNLP 2024 - First author
