@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://eeshazabibriles-bot.github.io
-baseurl                  : ""
-repository               : "eeshazabibriles-bot/eeshazabibriles-bot.github.io"
+baseurl                  : "/LJT-Homepage"
+repository               : "eeshazabibriles-bot/LJT-Homepage"
 
 # Site Author
 author:
