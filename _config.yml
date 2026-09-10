@@ -15,7 +15,7 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://eeshazabibriles-bot.github.io
 baseurl                  : ""
-repository               : "eeshazabibriles-bot/academicpages.github.io"
+repository               : "eeshazabibriles-bot/eeshazabibriles-bot.github.io"
 
 # Site Author
 author:
